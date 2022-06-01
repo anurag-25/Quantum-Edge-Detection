@@ -7,4 +7,4 @@ The objective of our thesis is essentially to explore the image processing techn
 - Exploring how can an image be represented using quantum entities and what are the quantum resources for this.
 - Developing a quantum algorithm for edge detection – a very crucial process in classic image processing – using quantum image models.
 
-This is the source code of a quantum edge detection algorithm which uses QPIE Image Encoding. This algorithms has a significant increase in complexity over the classical counterpart. Our thesis can be found [here](https://drive.google.com/file/d/1amg_2EZjdZriAUTut_83PNLUtNgjSAUX/view?usp=sharing).
+This is the source code of a quantum edge detection algorithm which uses QPIE Image Encoding. This algorithms has a significant increase in complexity over the classical counterpart. Our thesis can be found [here](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:93f63192-7702-49c7-9c9e-cb29b09fdad6).
